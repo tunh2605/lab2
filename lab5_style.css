@@ -1,0 +1,18 @@
+.myblue{
+    color: #72b4ff;
+}
+
+.myyellow{
+    color: #ffe735;
+}
+
+*{ color: white; }
+
+img{
+    width: 300px;
+    height: auto;
+}
+
+.myred{
+    color: #e94747;
+}
